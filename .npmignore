@@ -1,0 +1,8 @@
+node_modules
+src
+.editorconfig
+eslint.config.mjs
+package.json
+tsconfig.json
+yarn.lock
+README.md
